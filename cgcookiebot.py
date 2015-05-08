@@ -1,5 +1,5 @@
 # CG Cookie Bot - A video downloader for the lessons of the courses
-# Copyright (C) 2015 Santiago Sánchez Sobrino
+# Copyright (C) 2015 Santiago Sanchez Sobrino
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
